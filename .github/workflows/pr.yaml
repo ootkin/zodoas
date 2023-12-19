@@ -5,7 +5,7 @@ on:
     branches: ["main"]
 
 jobs:
-  release:
+  pr-check:
     name: Pull request
     runs-on: ubuntu-latest
 

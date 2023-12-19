@@ -1,10 +1,10 @@
 {
-  "name": "node-template",
+  "name": "@ootkin/node-template",
   "repository": {
     "type": "git",
     "url": "https://github.com/ootkin/node-template.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A starter template for nodejs applications",
   "files": [
     "dist"
