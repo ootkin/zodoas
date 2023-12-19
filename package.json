@@ -55,5 +55,9 @@
   },
   "dependencies": {
     "ts-node": "^10.9.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }

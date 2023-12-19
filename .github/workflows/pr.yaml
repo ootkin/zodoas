@@ -5,8 +5,8 @@ on:
     branches: ["main"]
 
 jobs:
-  release:
-    name: Release
+  pr-check:
+    name: Pull request
     runs-on: ubuntu-latest
 
     permissions:
