@@ -1,3 +1,3 @@
-# node-template
+# Zodoas
 
-A starter template for nodejs applications
+Generate OpenAPI speficitation using Zod schemas

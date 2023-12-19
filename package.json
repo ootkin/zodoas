@@ -1,23 +1,25 @@
 {
-  "name": "node-template",
+  "name": "zodoas",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ootkin/node-template.git"
+    "url": "https://github.com/ootkin/zodoas.git"
   },
   "version": "1.0.0",
-  "description": "A starter template for nodejs applications",
+  "description": "Generate OpenAPI speficitation using Zod schemas",
   "files": [
     "dist"
   ],
   "main": "dist/index.js",
   "keywords": [
-    "boilerplate",
+    "openapi",
+    "oas",
+    "generator",
+    "zod",
     "node",
-    "template",
-    "starter",
     "typescript",
-    "prettier",
-    "eslint"
+    "spec",
+    "swagger",
+    "specification"
   ],
   "scripts": {
     "test": "jest --coverage",
