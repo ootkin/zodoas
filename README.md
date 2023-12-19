@@ -1,2 +1,3 @@
 # node-template
-A starter template for nodejs modules
+
+A starter template for nodejs applications
